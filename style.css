@@ -24,7 +24,6 @@ body {
 .nav__logo, .footer__logo {
     display: flex;
     align-items: center;
-    height: 15px;
 }
 
 .nav__menu {
