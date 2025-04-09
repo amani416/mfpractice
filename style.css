@@ -68,14 +68,17 @@ h1{
 }
 
 .background img {
-    margin: 5px;
     max-width: 100%;
     height: auto;
 }
 
+.photo1 {
+    margin: 10px 5px 5px 20px;
+}
+
+
 .photo2 {
-    margin-left: 0;
-    margin-right: 20px;
+    margin: 10px 20px 5px 0;
 }
 
 .last-photo {
