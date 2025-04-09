@@ -65,8 +65,9 @@ h1{
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
 }
 
-
-
+.background img {
+    margin: 20px;
+}
 
 
 
